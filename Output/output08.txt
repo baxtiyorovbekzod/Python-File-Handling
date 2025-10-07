@@ -1,0 +1,2 @@
+5ga karali:[5, 10, 65]
+Ularning soni: 3

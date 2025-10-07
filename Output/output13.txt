@@ -1,0 +1,1 @@
+sortlangan ismlar:['Alisher\n', 'Anvar\n', 'Aziza\n', 'Bekzod\n', 'Bunyod\n', 'Dilnoza\n', 'Kamron\n', 'Zafar\n']
