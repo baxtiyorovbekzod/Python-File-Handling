@@ -1,1 +1,1 @@
-Bunyod - 6 ta harf
+['5 ta harfdan iborat', '7 ta harfdan iborat', '6 ta harfdan iborat', '5 ta harfdan iborat', '6 ta harfdan iborat', '7 ta harfdan iborat', '5 ta harfdan iborat', '6 ta harfdan iborat']
